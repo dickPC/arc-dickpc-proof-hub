@@ -1,0 +1,8 @@
+{
+  "chainId": 5042002,
+  "rpc": "https://rpc.testnet.arc.network",
+  "contract": "ArcDickPCProofHub",
+  "address": "0xbc39DB75b797E4c0cC69526C91FB30c24bdc1B18",
+  "txHash": "0x44cec3fdddbb814e2c005b4d5674b42574d63e2feda5b4deb2a49c39d5ec5723",
+  "deployer": "0xF226712E3Bb91156E985eb995E1ae524Ca8896EC"
+}
